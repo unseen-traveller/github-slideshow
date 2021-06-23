@@ -2,5 +2,5 @@
 layoout: slide
 title: "Welcome to our Second Slide!"
 ---
-Your text.
+"Here is my witty comment."
 Use the left arrow to go back!
